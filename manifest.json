@@ -1,6 +1,6 @@
 {
-    "name" : "外卖专享优惠",
-    "appid" : "",
+    "name" : "专享优惠",
+    "appid" : "__UNI__C0196E0",
     "description" : "",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -52,6 +52,11 @@
             "treeShaking" : {
                 "enable" : true
             }
+        },
+        "title" : "fine",
+        "router" : {
+            "base" : "./",
+            "mode" : "hash"
         }
     }
 }
